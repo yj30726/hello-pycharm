@@ -1,0 +1,4 @@
+venv/
+Django/settings.py
+.idea/
+db.sqlite3
